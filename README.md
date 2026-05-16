@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a developer who refuses to pick a lane. My playground spans **full-stack web apps, AI/LLM systems, voice agents, 2D/3D games, compilers, desktop tools and the occasional reverse-engineering rabbit hole**. I love picking up new stacks and shipping things that actually run — if it compiles, it ships.
+I'm a developer who refuses to pick a lane. My playground spans **full-stack web apps, AI/LLM systems, voice agents, 2D/3D games, compilers, desktop tools and the occasional reverse-engineering rabbit hole**. I love picking up new stacks and shipping things that actually run, if it compiles, it ships.
 
 If you can name it, I've probably opened a project folder for it at 2 AM.
 
@@ -145,7 +145,7 @@ If you can name it, I've probably opened a project folder for it at 2 AM.
 
 ## 📊 By Proficiency Level
 
-> _Honest snapshot of where I stand with each — based on how much of my work actually relies on them._
+> _Honest snapshot of where I stand with each, based on how much of my work actually relies on them._
 
 ### 🚀 Expert
 Daily-driver tech I've shipped real things with, multiple projects deep.
